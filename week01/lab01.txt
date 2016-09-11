@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 rizqy.faishal StafCS 4096 Sep 11 17:02 .
+drwx--x--x  3 rizqy.faishal StafCS 4096 Sep 11 16:58 ..
+drwxr-xr-x  8 rizqy.faishal StafCS 4096 Sep 11 17:01 .git
+-rw-r--r--  1 rizqy.faishal StafCS    0 Sep 11 17:02 lab01.txt
+-rw-r--r--  1 rizqy.faishal StafCS    7 Sep 11 16:08 README.md
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:48 SandBox
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:57 week00
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week01
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week02
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week03
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week04
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week05
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week06
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week07
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week08
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week09
+drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week10
+/home/fasilkom/mahasiswa/r/rizqy.faishal/os162/week01
