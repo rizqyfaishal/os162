@@ -1,1 +1,3 @@
 #rizqyfaishal
+
+My expectation enrolled this class are to learn the basic concept about operating system, command line interface, and how operating system is developed so somedays i can manipulate one of opearating system especially Linux.
