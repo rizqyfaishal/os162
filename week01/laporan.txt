@@ -1,0 +1,6 @@
+In this week's tutorial, i learned some ways how to use Linux feature such as:
+	- Using linux commad line interface
+	- Using basic commands: cd, pwd, ls, mkdir, touch, rm, etc
+	- Using git vcs feature via command line: push, pull, add, commit, clone, etc
+	- Using vi text editor
+	- Some of shell scripting
