@@ -17,3 +17,4 @@ drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week08
 drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week09
 drwxr-xr-x  2 rizqy.faishal StafCS 4096 Sep 11 16:21 week10
 /home/fasilkom/mahasiswa/r/rizqy.faishal/os162/week01
+Today is 12 Sep 2016 at 17:49:15
