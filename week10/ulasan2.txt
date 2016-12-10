@@ -1,0 +1,34 @@
+Ulasan 2 - Amazon Web Service Overview
+
+Pada ulasan kedua kali ini, saya akan membahas tentang produk salah satu perusahaan yang berkecipung di bidang cloud computing yaitu Amazon.com. Saya memilih topic ini karena dilandasi oleh keingintahuan saya tentang infrastructure yang dipakai dalam large-scale web application. Dari beberapa service provider untuk web services saya akan mereview salah satunya yang terkenal yaitu Amazon Web Service. Amazon Web Service atau biasanya orang menyebutnya AWS, merupakan sebuah practical cloud computing dari Amazon.com yang didirikan pada tahun 2006 yang berguna untuk memberikan layanan web services atau client-side applications dengan value "Succeeding at Twenty-First Century Business Infrastructure". Untuk menggali informasi mengenai services-services yang tersedia dalam AWS, berikut video yang saya tontong dari youtube:
+
+
+
+Saat pertama kalinya AWS di launching pada tahun 2006, memang service yang disediakannya masih terbatas. Seiring bergantinya tahun hingga tahun 2016 ini, AWS terus meningkatkan perkembangan yang signifikan dengan salah satu indikatornya penambahan service-service yang menjadi solusi dari problem web service dewasa ini. Perbedaan jumlah service yang signifikan dari tahun ke tahun menandakan bahwa semakin banyaknya permintaan dan perkembangan produk dari AWS.
+
+
+
+
+
+Pada tahun 2016 ini telah banyak fitur dan service yang dikembangkan yang mencapai 2420 fitur yang disediakan AWS. Pada blog ini akan dijelaskan service-service pada tiap problem domain  yang meliputi:
+
+Compute, yang berhubungan dengan proses komputasi dalam web application.
+Storage & content delivery, yang berhubungan dengan proses penyimpanan file dalam AWS.
+Database, berhubungan dengan database dan bussines logic dalam web application
+Networking, berhubungan dengan jaringan dan proses transfer pada web application
+Application Service, berhubungan dengan berbagai fitur yang dapat dikembangakan oleh developer pada web application.
+Administration dan Security, berhubungan dengan proses monitoring dan security dari system.
+Pada problem domain Compute, terdapat beberapa services yang disediakan untuk processing web application secara maksimal. Service-service tersebut antara lain Elastic Compute Cloud (EC2) yang memungkinakan untuk membuat virtual server dalam cloud serta dengan fiture scalability yang bagus, EC2 Container Service yang berguna untuk container management service dari setiap instance virtual server EC2 yang kita buat jadi akan sangat mudah untuk memanagement proses dari virtual server kita, Elastic Beanstalk yang berguna untuk memanagement dan mengeksekusi web apps kita serta support untuk beberapa bahasa pemograman seperti Node.js, .NET, JAVA, PHP, dan lain-lain.
+
+Ketika kita membuat sebuah web application pasti akan ada proses transfer dari client ke server berupa data-data media yang ukurannya relatif besar jika dibandingkan dengan data-data yang akan disimpan dalam database. Oleh karena itu dibutuhkan file system yang bagus untuk mengelola dan memanagement file-file yang masuk ke dalam server kita. AWS memberikan solusi untuk hal tersebut pada beberapa service yang disediakannya antara lain: Amazon S3 (Simple Storage Service) merupakan simple file system yang diguanakan untuk menyimpan data-data dari web yang memungkinkan scalability, high secure, dan reliable. Setelah itu terdapat lagi service yang berguna untuk menyimpan data-data yang bersifat arsip melalu service yang disediakan AWS yaitu Glacier. Untuk membuat instance disk yang berguna untuk memudahkan block allocation untuk data, AWS menyediakan service Elastic Block Store. Masih banyak lagi service yang disediakan untuk memanagement data-data file seprti import/export, storage gateway, dan cloudfront.
+
+Untuk permasalahan dengan database dan bussines logic, AWS mempermudah kita dengan beberapa service yang disediakan untuk memakai database yang bersifat relational maupun non-relational. Untuk database yang bersifat relational dalam AWS sudah desediakan service seperti RDS (Relational Database Service) dan Aurora (Relational Database Engine). Untuk menyimpan database yang bersifat non-realtional AWS sudah menyediakan service seperti DynamoDB dan ElasticCache. Datawarehouse service juga bisa kita gunakan melalui Redshift.
+
+Kita juga bisa mengatur bebarapa pengaturan jaringan kita seperti protocol HTTP atau HTTPS melalui service-service yang telah disediakan khusus untuk problem networking. Untuk para devleoper sendiri yang membangun application logic bisa menggunakan beberapa Application Service dari AWS seperti :
+
+Simple Email Service, berguna untuk dikembangan dalam aplikasi yang berhubungan dengan email service.
+CloudSearch, jika aplikasi kita membutuhkan fitur search maka kita bisa gunakan service ini.
+Simple Notification Service, digunakan untuk dikembangkan sebagai push notification service saat kita membuat aplikasi denga fitur real time notification.
+Elastic Transcoder, berguna untuk memanagement file-file media dan mengconvertnya dalam berbagai format yang dibutuhkan.
+Simple Queue Service, service ini berguna jika kita mengintegrasikan fitur SMS service ke dalam aplikasi kita.
+Beberapa service lainnya sudah disediakan oleh AWS seperti service yang memudahkan developer untuk membangun workflow nya, service administration dan security untuk proses monitoring dan managemen security aplikasi kita, service analytics yang berguna untuk proses analytic dan pengambilan keputusan dari data-data yang sudah tersimpan dalam database ataupun storage lainnya.
