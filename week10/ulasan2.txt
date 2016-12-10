@@ -1,5 +1,10 @@
 Ulasan 2 - Amazon Web Service Overview
 
+Group :
+- Rizqy Faishal Tanjung / https://github.com/rizqyfaishal/
+- Luthfi Abdurrahim / https://github.com/luthviar
+
+
 Pada ulasan kedua kali ini, saya akan membahas tentang produk salah satu perusahaan yang berkecipung di bidang cloud computing yaitu Amazon.com. Saya memilih topic ini karena dilandasi oleh keingintahuan saya tentang infrastructure yang dipakai dalam large-scale web application. Dari beberapa service provider untuk web services saya akan mereview salah satunya yang terkenal yaitu Amazon Web Service. Amazon Web Service atau biasanya orang menyebutnya AWS, merupakan sebuah practical cloud computing dari Amazon.com yang didirikan pada tahun 2006 yang berguna untuk memberikan layanan web services atau client-side applications dengan value "Succeeding at Twenty-First Century Business Infrastructure". Untuk menggali informasi mengenai services-services yang tersedia dalam AWS, berikut video yang saya tontong dari youtube:
 
 
