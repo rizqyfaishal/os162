@@ -1,5 +1,9 @@
 Ulasan  1 - Android Architecture
 
+Group :
+- Rizqy Faishal Tanjung / https://github.com/rizqyfaishal/
+- Luthfi Abdurrahim / https://github.com/luthviar
+
 Android Architecture
 
 Arsitektur Android, terdiri dari tumpukan layer-layer, yang dimana paling bawah menunjukan kernel-nya, yaitu Linux Kernel 2.6, tumpukan di atasnya yaitu libraries, yang merupakan native libraries yang dikembangkan dengan bahasa C dan C++ yang dimana libraries ini nantinya akan menunjukan kapabilitasnya melalui application framework yang diperkenalkan oleh aplikasi-aplikasi Android. Pada lapisan layer Application Framework, akan membuat berbagai komponen pada libraries menjadi reusable, sehingga bisa digunakan kapanpun dan dengan tujuan apapun. Android runtime, merupakan salah satu komponen critical yang dimiliki oleh Android, dan terdapat di dalamnya yaitu Dalvik VIrtual Machine, karena Dalvik Virtual Machine ini terdiri dari sebuah core library yang menyediakan substantial subset dari Java 5 standard edition yang dimana terdapat IO Collections. Dan, layer paling atas yaitu adalah applications, yaitu aplikasi-aplikasi pada Android yang dimana yang biasa digunakan oleh para pengguna Android Devices, seperti browser, phone, message, dan-lain-lain.
