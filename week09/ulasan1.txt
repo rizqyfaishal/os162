@@ -36,3 +36,8 @@ Lalu, ada Notification manager, yang dimana membantu kita menampilkan custom ale
 Lalu, ada location manager yang akan menghandle informasi mengenai lokasi, dan ada pula telephony manager yang menghandle informasi mengenai telephony.
 Yang dimana jika kita menggunakan GSM Telephony atau beberapa jenis lainnya dari telephony, maka ada beberapa ketergantungan terhadap hardware, jadi inilah inti pelayanan yang dimana disediakan oleh application framework yang terpisah dari ini ialah ada beberapa pelayanan yang harus membutuhkan dukungan hardware seperti bluetooth service, wi-fi service, usb service atau beberapa sensor lainnya, sehingga membutuhkan ketergantungan hardware.
 
+Github Account : luthviar
+Link Youtube ulasan 1 :  https://www.youtube.com/watch?v=c7nZP6B0oxU
+Link Youtube ulasan 2 : https://www.youtube.com/watch/?v=4b3PNCSENvM 
+Link ulasan 1 : http://luthviar.blogspot.co.id/2016/11/ulasan-1-android-architecture.html
+Link ulasan 2 : aws-os.blogspot.co.id/2016/12/pada-ulasan-kedua-kali-ini-saya-akan.html
