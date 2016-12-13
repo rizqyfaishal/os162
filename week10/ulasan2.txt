@@ -37,3 +37,10 @@ Simple Notification Service, digunakan untuk dikembangkan sebagai push notificat
 Elastic Transcoder, berguna untuk memanagement file-file media dan mengconvertnya dalam berbagai format yang dibutuhkan.
 Simple Queue Service, service ini berguna jika kita mengintegrasikan fitur SMS service ke dalam aplikasi kita.
 Beberapa service lainnya sudah disediakan oleh AWS seperti service yang memudahkan developer untuk membangun workflow nya, service administration dan security untuk proses monitoring dan managemen security aplikasi kita, service analytics yang berguna untuk proses analytic dan pengambilan keputusan dari data-data yang sudah tersimpan dalam database ataupun storage lainnya.
+
+GITHUB Account : https://github.com/rizqyfaishal
+URL ulasan : http://aws-os.blogspot.co.id/2016/12/pada-ulasan-kedua-kali-ini-saya-akan.html
+URL konten YouTube : https://www.youtube.com/watch?v=4b3PNCSENvM
+Durasi : 63 menit 23 detik
+Tanggal submisi revisi pertama : 10 Desember 2016
+Tanggal submisi revisi terakhir : 10 Desember 2016
